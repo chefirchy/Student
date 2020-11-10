@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\chefi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\chefi\\.nuget\\packages"
+    ]
+  }
+}

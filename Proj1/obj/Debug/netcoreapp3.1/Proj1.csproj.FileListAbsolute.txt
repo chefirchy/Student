@@ -1,0 +1,13 @@
+C:\Users\chefi\source\repos\Proj1\obj\Debug\netcoreapp3.1\Proj1.csprojAssemblyReference.cache
+C:\Users\chefi\source\repos\Proj1\obj\Debug\netcoreapp3.1\Proj1.AssemblyInfoInputs.cache
+C:\Users\chefi\source\repos\Proj1\obj\Debug\netcoreapp3.1\Proj1.AssemblyInfo.cs
+C:\Users\chefi\source\repos\Proj1\obj\Debug\netcoreapp3.1\Proj1.csproj.CoreCompileInputs.cache
+C:\Users\chefi\source\repos\Proj1\bin\Debug\netcoreapp3.1\Proj1.exe
+C:\Users\chefi\source\repos\Proj1\bin\Debug\netcoreapp3.1\Proj1.deps.json
+C:\Users\chefi\source\repos\Proj1\bin\Debug\netcoreapp3.1\Proj1.runtimeconfig.json
+C:\Users\chefi\source\repos\Proj1\bin\Debug\netcoreapp3.1\Proj1.runtimeconfig.dev.json
+C:\Users\chefi\source\repos\Proj1\bin\Debug\netcoreapp3.1\Proj1.dll
+C:\Users\chefi\source\repos\Proj1\bin\Debug\netcoreapp3.1\Proj1.pdb
+C:\Users\chefi\source\repos\Proj1\obj\Debug\netcoreapp3.1\Proj1.dll
+C:\Users\chefi\source\repos\Proj1\obj\Debug\netcoreapp3.1\Proj1.pdb
+C:\Users\chefi\source\repos\Proj1\obj\Debug\netcoreapp3.1\Proj1.genruntimeconfig.cache
